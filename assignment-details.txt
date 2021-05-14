@@ -1,0 +1,22 @@
+/route should display list of items
+user should be able to click to see some details of an items
+user should be able to get back to the main list
+
+create object: [
+{
+    JobTitle:
+    Company:
+    PostDate:
+    Salary:
+    Description:
+}
+
+
+]
+
+
+cd myapp
+npm init
+entry point: (app.js)
+npm install express --save
+
